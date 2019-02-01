@@ -1,1 +1,1 @@
-# DCGAN_cartoon_faces
+# DCGAN-cartoon-faces
