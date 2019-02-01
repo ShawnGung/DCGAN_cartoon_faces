@@ -10,7 +10,7 @@ thanks for the dataset from [何之源](https://www.zhihu.com/people/he-zhi-yuan
 
 # run code
 - download dataset and unzip
-- put the dataset in the directory[data/faces/](data/faces)下
+- put the dataset in the directory [data/faces/](data/faces) 
 - [DCGAN-faces.ipynb](DCGAN-faces.ipynb) the main code in it
 
 # loss function
